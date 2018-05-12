@@ -1,0 +1,42 @@
+_repo: The-Blue-Grass-Seminary-Girls-on-the-WaterExciting-Adventures-on-a-Summer-Cruise-Through-the-__37310
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Davis, J. Watson
+    alias: Davis, John Watson
+    birthdate: 1870
+    deathdate: 1959
+    gutenberg_agent_id: '32768'
+    url: http://www.gutenberg.org/2009/agents/32768
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burnett, Carolyn Judson
+    gutenberg_agent_id: '38762'
+    url: http://www.gutenberg.org/2009/agents/38762
+description: ''
+gutenberg_issued: '2011-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Steamboats -- Juvenile fiction'
+- !lcsh 'Ocean travel -- Juvenile fiction'
+- !lcsh 'Panama Canal (Panama) -- Description and travel -- Juvenile fiction'
+- !lcsh 'Nicaragua -- Juvenile fiction'
+- !lcsh 'Mexico -- History -- Revolution, 1910-1920 -- Juvenile fiction'
+- !lcsh 'Ransom -- Juvenile fiction'
+- !lcsh 'Revolutionaries -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Teenage girls -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Germans -- Foreign countries -- Juvenile fiction'
+title: "The Blue Grass Seminary Girls on the Water\r\nOr, Exciting Adventures on a\
+  \ Summer Cruise Through the Panama Canal"
+url: http://www.gutenberg.org/ebooks/37310
